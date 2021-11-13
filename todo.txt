@@ -1,0 +1,2 @@
+make the program with flags to change the address to ping and 
+another things (btw i prefer this simple )
