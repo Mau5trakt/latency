@@ -1,0 +1,5 @@
+ping -c 1 -A 8.8.8.8 | sed "1d" | sed "2,5d"| cut -d " " -f 7-8 | cut -b 6-12
+
+be carefull with the flag -c 1 in the start bc sed "2,5d" deppends directly from this. 
+
+
