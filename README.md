@@ -1,5 +1,5 @@
 # Latency
-CLI that sends a IMPC package to the Google Public DNS IPv4 and show the time in miliseconds that this took<br>
+CLI  command that sends a IMPC package to the Google Public DNS IPv4 and show the time in miliseconds that this took<br>
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
